@@ -1,0 +1,46 @@
+.ryt{
+    display: flex;
+    margin-right: 20px;
+}
+.lft{
+    display: flex;
+    align-items:flex-end;
+    
+}
+.first{
+    position: relative;
+    right:16em;
+    top: 27px;
+}
+.last{
+    position: relative;
+    right:16em;
+    top: 26px;
+    
+}
+.inputbox{
+    display:flex;
+    flex-direction: row;
+}
+.inputBoxundertxt{
+    display: flex;
+
+}
+.mailInput{
+    display: flex;
+    position: relative;
+    top:2em;
+}
+.checked {
+    color: orange;
+}
+.center-align {
+    text-align: center;
+  }
+.submit{
+    display: flex;
+    top:20px;
+}
+
+
+
